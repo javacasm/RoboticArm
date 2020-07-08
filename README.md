@@ -1,6 +1,6 @@
 # Robotic Arm by keyestudio
 
-Review del [brazo robótico de keyestudio](https://www.aliexpress.com/item/4001139520378.html?spm=2114.12010612.8148356.7.5752517cprhaM3)
+Review del [robotic 4DOF arn v2.0  keyestudio](https://www.aliexpress.com/item/4001139520378.html?spm=2114.12010612.8148356.7.5752517cprhaM3)
 
 ![Robotic arm](https://ae01.alicdn.com/kf/Hafe0e8e368104d12af65080b6ca64e31R/Keyestudio-4DF-Mechanische-PS2-Joystick-Metallic-Roboter-Arm-Lernen-Starter-Kit-V-2-0-f-r.jpg)
 
@@ -9,7 +9,7 @@ Review del [brazo robótico de keyestudio](https://www.aliexpress.com/item/40011
 
 ![](https://ae01.alicdn.com/kf/H57f3c64b455f47ca8028cf31b6c959800/Keyestudio-4DF-Mechanische-PS2-Joystick-Metallic-Roboter-Arm-Lernen-Starter-Kit-V-2-0-f-r.jpg)
 
-* Arm controler shield: 
+* TB6612FNG Servo/motor controler shield: 
  * Servos pins
  * 2 DC Motors controller
  * Wired remote included
@@ -22,11 +22,11 @@ Review del [brazo robótico de keyestudio](https://www.aliexpress.com/item/40011
 
 ![](https://ae01.alicdn.com/kf/H09f80b86f14c44b9bf2e2641d69fb885W/Keyestudio-4DF-Mechanische-PS2-Joystick-Metallic-Roboter-Arm-Lernen-Starter-Kit-V-2-0-f-r.jpg)
 
- * 4 metal gear servos
- * Bluetooth board
+ * 4 x MG90S metal gear servos
+ * Bluetooth 4.0 board
  * 2 x 18650 batteries holder
  * 2 x analogic joysticks
- * metal structure
+ * metal & acrilic structure
  * screw driver & wrench
  * metal screws & nuts
  * Powered by 2x18650 lipo batteries (not included in the kit)
